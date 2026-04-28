@@ -78,12 +78,6 @@ online-retail-project/
 
 ---
 
-## 📊 Dashboard Preview
-
-![Dashboard](Tableau/Dashboard.png)
-
----
-
 ## 🎯 Key Learnings
 
 - End-to-end data analysis workflow  
